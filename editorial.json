@@ -1,0 +1,48 @@
+{
+  "edition": "2026-11-08",
+  "edition_title": "Sunday · November 8, 2026",
+  "byline": "UI News Desk",
+  "updated_at": "2026-11-08",
+  "items": [
+    {
+      "id": "galts-20261108-01",
+      "title": "165,000 New Jobs: Does the Decline Narrative Fit?",
+      "category": "WORK / EVIDENCE",
+      "body": "The Bureau of Labor Statistics reports October payroll employment rose by 165,000 and unemployment remained at 4.1%. These numbers do not mean every worker is thriving, but they complicate a simple economic-collapse narrative. The Galt question: can productive capacity grow while some individuals still lose bargaining power?",
+      "source": "U.S. Bureau of Labor Statistics · Nov 6, 2026",
+      "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+      "date": "2026-11-08",
+      "byline": "UI News Desk"
+    },
+    {
+      "id": "galts-20261108-02",
+      "title": "The Job Openings Test: Freedom to Walk Away",
+      "category": "LABOR / CHOICE",
+      "body": "September's JOLTS survey reported 7.5 million job openings, 5.4 million hires and 3.4 million quits. A market can look healthy in aggregate while individual workers feel trapped. The Galt question: how much freedom is practical when changing jobs carries substantial personal risk?",
+      "source": "U.S. Bureau of Labor Statistics · Nov 3, 2026",
+      "url": "https://www.bls.gov/news.release/archives/jolts_11032026.htm",
+      "date": "2026-11-08",
+      "byline": "UI News Desk"
+    },
+    {
+      "id": "galts-20261108-03",
+      "title": "Productivity Versus Price Pressure",
+      "category": "ECONOMY / VALUE",
+      "body": "The Treasury reports strong 2026 private investment and third-quarter GDP growth, while households continue to face higher prices. This is a tension worth testing, not proof of collective decline. Who receives the gains from new tools, and how freely can people participate in creating them?",
+      "source": "U.S. Treasury · Nov 2, 2026",
+      "url": "https://home.treasury.gov/news/press-releases/sb0676",
+      "date": "2026-11-08",
+      "byline": "UI News Desk"
+    },
+    {
+      "id": "galts-20261108-04",
+      "title": "What Should Government Do About AI's Winners and Losers?",
+      "category": "AI / RIGHTS / PUBLIC POLICY",
+      "body": "Post-election debate is turning toward affordability, employment, public debt and AI-led investment. Competing positions favor market freedom, social protections or regulation. The Galt question: when does intervention preserve genuine choice, and when does it suppress productive experimentation?",
+      "source": "Associated Press · Nov 8, 2026",
+      "url": "https://apnews.com/article/ab332d745571d36c5512e7e3beab6d59",
+      "date": "2026-11-08",
+      "byline": "UI News Desk"
+    }
+  ]
+}
