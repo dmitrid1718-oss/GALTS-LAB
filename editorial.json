@@ -1,9 +1,29 @@
 {
-  "edition": "2026-11-08",
-  "edition_title": "Sunday · November 8, 2026",
+  "edition": "2026-11-09",
+  "edition_title": "Monday morning · November 9, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-08",
+  "updated_at": "2026-11-09",
   "items": [
+    {
+      "id": "galts-20261109-work",
+      "title": "If AI Changes the Work, Who Owns the Judgment?",
+      "category": "WORK / FREEDOM",
+      "body": "October's U.S. professional-services hiring rebound complicates predictions of immediate across-the-board job loss, even as some technical industries contract. Galt's question for the AI era: if an AI produces much of the output, what part of value still depends on the independent judgment and responsibility of the person using it?",
+      "source": "Washington Post · Nov 7, 2026",
+      "url": "https://www.washingtonpost.com/business/2026/11/07/white-collar-hiring-jumps-october-complicating-ai-story/",
+      "date": "2026-11-09",
+      "byline": "UI News Desk"
+    },
+    {
+      "id": "galts-20261109-labor",
+      "title": "AI at Work: A Laboratory, Not Just a Forecast",
+      "category": "AUTONOMY / RESEARCH",
+      "body": "Anthropic's October 16 research examines employment changes inside an AI company itself. Rather than assuming jobs vanish or remain unchanged, ask which tasks shift, who controls new tools, and whether workers gain meaningful options. This is a prompt for investigation, not a proof of a universal labor outcome.",
+      "source": "Anthropic Research · Oct 16, 2026",
+      "url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "date": "2026-11-09",
+      "byline": "UI News Desk"
+    },
     {
       "id": "galts-20261108-01",
       "title": "165,000 New Jobs: Does the Decline Narrative Fit?",
