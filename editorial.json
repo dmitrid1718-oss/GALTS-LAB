@@ -1,9 +1,29 @@
 {
-  "edition": "2026-11-09",
-  "edition_title": "Monday morning · November 9, 2026",
+  "edition": "2026-11-10",
+  "edition_title": "Tuesday morning · November 10, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-09",
+  "updated_at": "2026-11-10",
   "items": [
+    {
+      "id": "galts-20261110-caissi",
+      "title": "Who Sets the Terms for Independent AI Safety Work?",
+      "category": "AI GOVERNANCE / INDEPENDENCE",
+      "body": "The Associated Press reports, citing two former government officials, that staff at Commerce’s AI safety center were asked to informally report to a White House office. AP also reports the center lacks a permanent director and has stopped publishing research. The reporting arrangement has not been independently confirmed publicly. The institutional question: what makes a safety review independent enough to challenge the interests around it?",
+      "source": "Associated Press · Nov. 8, 2026",
+      "url": "https://apnews.com/article/d3318eb2cf011df53e9ddb3e03d25f13",
+      "date": "2026-11-10",
+      "byline": "UI News Desk"
+    },
+    {
+      "id": "galts-20261110-capital",
+      "title": "AI Infrastructure Meets a More Selective Lender",
+      "category": "BUILDERS / CAPITAL",
+      "body": "Reuters reports that banks and credit investors are scrutinizing AI infrastructure borrowers more closely, asking harder questions about cash flows, construction deadlines, and customer commitments. Major AI investment continues, but smaller data-center and cloud operators face greater financing pressure. A builder’s independence depends partly on who funds the machinery and who carries the downside.",
+      "source": "Reuters · Nov. 9, 2026",
+      "url": "https://www.reuters.com/legal/transactional/banks-investors-grow-wary-ai-debt-spooked-by-market-selloff-2026-11-09/",
+      "date": "2026-11-10",
+      "byline": "UI News Desk"
+    },
     {
       "id": "galts-20261109-work",
       "title": "If AI Changes the Work, Who Owns the Judgment?",
