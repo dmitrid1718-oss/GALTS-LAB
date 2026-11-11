@@ -5,6 +5,17 @@
   "updated_at": "2026-11-11",
   "items": [
     {
+      "id": "galts-20261111-inflation",
+      "title": "Inflation, Interest Rates and the Independent Builder",
+      "category": "ECONOMY / BUILDERS",
+      "date": "2026-11-10",
+      "edition_date": "2026-11-11",
+      "source": "Bureau of Labor Statistics · October CPI, Nov. 10",
+      "url": "https://www.bls.gov/news.release/pdf/cpi.pdf",
+      "body": "The October Consumer Price Index rose 0.4% month over month and core CPI increased 0.3%. Higher costs and potentially higher financing rates change the hurdle for independent projects. The practical question: can a business remain viable without assuming future financing stays cheap?",
+      "status": "Confirmed"
+    },
+    {
       "id": "galts-20261111-finance",
       "title": "When Builders Borrow Against a Future That Hasn't Arrived",
       "category": "BUILDERS / CAPITAL",
