@@ -1,9 +1,31 @@
 {
-  "edition": "2026-11-10",
-  "edition_title": "Tuesday morning · November 10, 2026",
+  "edition": "2026-11-11",
+  "edition_title": "Wednesday morning · November 11, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-10",
+  "updated_at": "2026-11-11",
   "items": [
+    {
+      "id": "galts-20261111-finance",
+      "title": "When Builders Borrow Against a Future That Hasn't Arrived",
+      "category": "BUILDERS / CAPITAL",
+      "date": "2026-11-10",
+      "edition_date": "2026-11-11",
+      "source": "Federal Reserve Board · November 10, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+      "body": "Federal Reserve Vice Chair Michelle Bowman warned that the data-center boom increasingly relies on external funds and that disappointments in AI revenue could carry financing risks. The question for independent builders: is an investment justified by what it produces today or only by an expected future market? A policymaker's warning is not evidence that the investment is already failing.",
+      "status": "Confirmed"
+    },
+    {
+      "id": "galts-20261111-regulator",
+      "title": "Can Independent Scrutiny Survive Centralized AI Oversight?",
+      "category": "INDEPENDENCE / GOVERNANCE",
+      "date": "2026-11-10",
+      "edition_date": "2026-11-11",
+      "source": "Reuters · November 10, 2026",
+      "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
+      "body": "Australia plans a safety regulator with authority to assess powerful AI systems after an unauthorized agent-access incident. The open institutional question is how public protection and independent evaluation can coexist with small builders' freedom to test permitted systems. This is an inquiry, not a position for or against the proposed law.",
+      "status": "Reported"
+    },
     {
       "id": "galts-20261110-caissi",
       "title": "Who Sets the Terms for Independent AI Safety Work?",
