@@ -1,9 +1,42 @@
 {
-  "edition": "2026-11-11",
-  "edition_title": "Wednesday morning · November 11, 2026",
+  "edition": "2026-11-12",
+  "edition_title": "Thursday morning · November 12, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-11",
+  "updated_at": "2026-11-12",
   "items": [
+    {
+      "id": "galts-20261112-capital",
+      "title": "Does Independence Require Cheap Capital?",
+      "category": "BUILDERS / ECONOMICS",
+      "date": "2026-11-12",
+      "edition_date": "2026-11-12",
+      "source": "Wall Street Journal · Nov 11",
+      "url": "https://www.wsj.com/economy/central-banking/treasury-yields-edge-up-ahead-of-u-s-inflation-data-7a55db79",
+      "body": "What changed: Inflation and Treasury yields rose, tightening the price of long-duration investment. Status: Reported. Why watch: can an independent builder survive without subsidized financing? Higher rates are a test, not proof of decline.",
+      "status": "Reported"
+    },
+    {
+      "id": "galts-20261112-regulation",
+      "title": "Who Gets to Test the Powerful?",
+      "category": "INDEPENDENCE / AI GOVERNANCE",
+      "date": "2026-11-12",
+      "edition_date": "2026-11-12",
+      "source": "Australian government · Nov 10",
+      "url": "https://www.minister.defence.gov.au/media-releases/2026-11-10/new-australian-ai-safety-security-protections",
+      "body": "What changed: Australia proposed independent evaluations and mandatory reporting for frontier AI. Status: Confirmed proposal. Why watch: will small independent labs have access to test systems, or only accredited incumbents?",
+      "status": "Reported"
+    },
+    {
+      "id": "galts-20261112-vendors",
+      "title": "The Price of Outsourced Judgment",
+      "category": "RESPONSIBILITY / SYSTEMS",
+      "date": "2026-11-12",
+      "edition_date": "2026-11-12",
+      "source": "Notion · Nov 9",
+      "url": "https://www.notion.com/en-gb/security/advisories/security-incident-involving-a-third-party-ai-vendor",
+      "body": "What changed: A vendor incident exposed some customer AI transcripts. Status: Confirmed disclosure. Why watch: how should builders verify promises about retention and responsibility across vendors? A failure is a reason to test contracts, not abandon tools.",
+      "status": "Reported"
+    },
     {
       "id": "galts-20261111-inflation",
       "title": "Inflation, Interest Rates and the Independent Builder",
