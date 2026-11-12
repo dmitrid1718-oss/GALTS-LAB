@@ -19,7 +19,7 @@ jobs:
           python-version: '3.12'
       - name: Build source-linked daily news snapshot
         env:
-          NEWS_QUERY: "jobs artificial intelligence economy industrial productivity freedom individual rights regulation"
+          NEWS_QUERY: "artificial intelligence"
         run: python scripts/update_news.py
       - name: Commit changed news only
         run: |
