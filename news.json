@@ -1,33 +1,15 @@
 {
-  "updated_at": "2026-11-12T18:28:59.254032+00:00",
+  "updated_at": "2026-11-13T10:30:00+00:00",
   "feed": "Google News RSS",
   "queries": [
     "artificial intelligence"
   ],
   "items": [
     {
-      "title": "Frequently asked questions: Artificial Intelligence (AI) in the military domain - ICRC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON3hZV0w1YzZQLWlhZzZvWXNVeUJUbmtQeDFwUnhHRHFOY182a3ZxRnNIZkpBX0JCWHZnVE8zUUxqNHU1d1hvU1NPZjFxUW9mTjdtcWpPdGZxZ0tSNzN4eEtuX0x4dmp1Rk8wMFJzaWJoVGdsWnFDZ0VOSHFDR2RCY0d6THE?oc=5",
-      "source": "ICRC",
-      "published": "2026-11-06T08:00:00+00:00"
-    },
-    {
-      "title": "Artificial intelligence is desperately seeking its narrative - The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWk0NGkyaTZjT29pR0VlM25mNGtrQmZqSnFxUS16cGgyU3dFcXNpQ0I5OGtrVzY4UmpsMHprcjJIQ0E5U1YwTTJtS3ZLTzNPMHhPMFd2TklGSHFMOUhsc2kwZkN6V21hY3ItVC1YM1hVSDd3UDhheXF1QjR6bUJUbVBEbjdCa0E1bnIyc3VuNXhiX3o5enBGYTlaSQ?oc=5",
-      "source": "The Conversation",
-      "published": "2026-11-10T13:12:58+00:00"
-    },
-    {
-      "title": "Artificial Intelligence in Earth Science Data Systems - NASA Earthdata (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fM3hZSzRWbWFxeXdEYmpRT0Z3RVI3Q19ScWtvbTFBdmtJOEFrSmJGVjM4Ui1CM1hGdXJwWlVaRlNjSGNfRUNkR3RNNjh5QXlCRGNRWGhPQWpKdXd3?oc=5",
-      "source": "NASA Earthdata (.gov)",
-      "published": "2026-11-06T08:00:00+00:00"
-    },
-    {
-      "title": "Three Essays on Artificial Intelligence and Work in the U.S. - RAND",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9La0QtbGlJZ1RxN2txTS1KQ1VqRU82STJuMlI0S1lIVDVqamEyQ3IyQlh4VW1yQnhDOWgxaGx2QjJaMnBwOEVxbUFYMUQ5X1JJVDB0Z29HVFctckp5MG5qQnQzeHQ5YXpXOGVWeA?oc=5",
-      "source": "RAND",
-      "published": "2026-11-09T13:58:52+00:00"
+      "title": "Associate professor finds agricultural relevance in artificial intelligence — and a rare sense of place - Auburn University",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDFWOHg2bGZVdm1idWVYcF8zZTUzblFuRjNjdzJ3b3pyZnpoR1ZFUzNteE5wV1ROYl93cng1Ti04bTI0RXRGbXFpZmp4dzhzekhTVzZzd2QyOEhQY1VwakVqNUlkUWQwTUx3U2loaUdkREdBdmxPZmxyNEtERk04SXpSVF95anVHYkttVHhKT2E4NWlFemhVb0lsYmFaT2RTM3JZOWRHbUFleXFEUklCRERmalpReHdobW1YUEw3d0NzTjNXQXJqYzNVMUJWSXp2MllOcV9TbV8?oc=5",
+      "source": "Auburn University",
+      "published": "2026-11-12T16:49:10+00:00"
     },
     {
       "title": "How Public Health Agencies Can Use Artificial Intelligence Effectively and Responsibly - The Pew Charitable Trusts",
@@ -36,52 +18,25 @@
       "published": "2026-11-12T14:59:26+00:00"
     },
     {
-      "title": "Exploring How Autistic Individuals Interact With Artificial Intelligence - SBU News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSzE3YWtULTBGOE1fZ21ZM0Z5aWdiWTV4VERGYzhSVmZyWDZwWDFMMUxGRTAyS3JoQjF0eURWVGdTX2pheWxHTnpyZ0liZlNBMGdoUGFyaVBqQ2hQamlKWWE4U2Nqb1NTRm9SZXlWOE43T1BIdUc0MTRHR24ybGpaNXpNZFQ1Z01ucEJtMjk4RmtWUUVucHlZS21Wd21YYmk3d3JNYzlpY3FGaW11bGJYSWJnQUtZamgtTUtOdG5rWQ?oc=5",
-      "source": "SBU News",
-      "published": "2026-11-11T20:37:35+00:00"
+      "title": "Nonprofits sue major AI companies seeking to halt frontier-model development",
+      "url": "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/",
+      "source": "Reuters",
+      "published": "2026-11-12",
+      "category": "AI governance"
     },
     {
-      "title": "Faculty member addresses artificial intelligence practically and theoretically - The Pennsylvania State University",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlNYMDJkYUZDVzhDbFRGa2tNZ25WbXdVNXdJU05QZEtmTS1GMlZlSFY1Mk1NdVFKSzF4eDFhU1dZZVEtMXZ3TlVNZnZ3Z2MtNnFnbGJMRGxhc2Nhdm83amJmR2JlZl9vc3UzRVBQd0RydV80elNjM1ZfSWdsZnk1eVE0aGhBcmN1YkhFRW5rWVRqWU50S1JEM3ZQd0U1el94eUpIVXBQb1RkUGg5TTBMTTZhRQ?oc=5",
-      "source": "The Pennsylvania State University",
-      "published": "2026-11-10T17:46:03+00:00"
+      "title": "Google introduces Gemini 4 Hydrogen for agent workflows",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "source": "Google",
+      "published": "2026-11-12",
+      "category": "AI and work"
     },
     {
-      "title": "Saint Vincent College approves new artificial intelligence minor - Saint Vincent College",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUpkdkFuc1o5UW9GSkpodmJsdXpPTWxncU9VdElHbEJ4SjZ0a3dXb1ZfUkhnaWVfSUd0Y192Q0xvSGVYOHRINDZ4S1FSb0ZNUWFyNFJNaHl3NzJOcHJ0YV9JYzZtTDROakMwb1h5VEZqUVNPa0R1LURTRTlPNGZXOThBMkxyTFZ4MmkxRFF3Zl9UcWZJSjlraXdiazAyU21QNUgyNzB1UjdNYVlp?oc=5",
-      "source": "Saint Vincent College",
-      "published": "2026-11-11T17:24:05+00:00"
-    },
-    {
-      "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnBiX0Z2cUluNEtMVUJhSG83U09OQUo0ZzVxSUQtTXpxa2FMOWNvN1JZNVdMT1FUbW9tenFYOGNIWmxuLWZpOFc1bkFSN1d6Nk9kaklCczUwYjZXNkktT3NkX2hDOTRzT1prb0pmWWlObm9nbGJVa0NmWlZ4dU5NRS1XNXNHMkFLbDFreGxmd05EY3BZczR5NS1aYkdtSTAyQXl2eA?oc=5",
-      "source": "The Guardian",
-      "published": "2026-11-10T02:31:00+00:00"
-    },
-    {
-      "title": "Best AI Stocks to Buy in 2026: 10 Top Picks & How to Invest - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTN4SWRQbVZpY1lwSnJjN3YxWmY5LU5Qck5ia2psWWRwcWplZ0RGTFo3ZmJrZDZ1S1RQZFF2NUcwOTh0NXA3NlM0a25ieHhPWHprdTBmbWxzY2FtdHRIMlpSY1pzcTU5ZkhfN0wtcF9UeDg4WnZVYTZPSkRtcDNZaUJ1djdPQ1RVRkVQeVFUTnJrMFJ5VXdj?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-11-10T04:51:00+00:00"
-    },
-    {
-      "title": "Financing Artificial Intelligence: Cash, Debt, and Corporate Investment - Federal Reserve Bank of St. Louis",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTFVFWFNiUmVHOHM0M0ZjOGtKQkR6YkdLUUFfYWw1ay05SEd6TmR1RzJmaVJqd25sekVpZWsxeGFMVjI1Z3A1anItajFtTFJtQlZGUXB4M2xaU2paV25aczY4bzROYUp6YXRCUUNWOVloRFVXYjl4QXh0c212Ui0xWldXckp3bjlwZHViUTlobXlEaEhub2s3QlFLQVhIaWN6TVg0QjlScDlfQ1dGanFFdDB2Rk1wanZrM2FBcw?oc=5",
-      "source": "Federal Reserve Bank of St. Louis",
-      "published": "2026-11-10T19:40:25+00:00"
-    },
-    {
-      "title": "Associate professor finds agricultural relevance in artificial intelligence — and a rare sense of place - Auburn University",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDFWOHg2bGZVdm1idWVYcF8zZTUzblFuRjNjdzJ3b3pyZnpoR1ZFUzNteE5wV1ROYl93cng1Ti04bTI0RXRGbXFpZmp4dzhzekhTVzZzd2QyOEhQY1VwakVqNUlkUWQwTUx3U2loaUdkREdBdmxPZmxyNEtERk04SXpSVF95anVHYkttVHhKT2E4NWlFemhVb0lsYmFaT2RTM3JZOWRHbUFleXFEUklCRERmalpReHdobW1YUEw3d0NzTjNXQXJqYzNVMUJWSXp2MllOcV9TbV8?oc=5",
-      "source": "Auburn University",
-      "published": "2026-11-12T16:49:10+00:00"
-    },
-    {
-      "title": "The use of artificial intelligence in regulatory activities – key areas and considerations - IFPMA",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa2VEX0g3LXREM0JndWd1YnJ4dEk4WTNNMWRwUEtHd3pldnBuLUFTazg3c0hTN1gzOWVJbkNrLUVUYURuX2l0Q1N6Q2VlX3hraFVTX0g4R1BOYjZKOVllRk92aG5XUHU0MkVndUpvZGhXUFJKU3BLc3NnaTBTRjhacEpkZUYxak5ic1NrTE5OZnZZWXVlZTJCcHg0RWkyU1Q1dE9uRW42cmNmbmVzaWtOSVR4SFhsdWR6WmFJczJHSFctUQ?oc=5",
-      "source": "IFPMA",
-      "published": "2026-11-09T12:54:13+00:00"
+      "title": "NVIDIA confirms Jensen Huang’s resignation; Colette Kress named interim CEO",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition/",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-11-12",
+      "category": "Industry"
     },
     {
       "title": "Artificial Intelligence and the Future of K-12 Education: What Do Parents Want? - Institute for Family Studies",
@@ -90,10 +45,22 @@
       "published": "2026-11-11T23:12:39+00:00"
     },
     {
-      "title": "Latin America Makes Progress in Data Governance for Ethical and Inclusive Artificial Intelligence - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUzFEa1hFWlJCR044b1N5RTA4R1pHQ0FyYi1JWVBYd3V1dGtNdnpwQ0hMNkVKQk1CekJMV3pyckxnTVE1Z3RuT2dMR25XeWc2UE9jaGUxdlBiRGJEMDY0eUpnek9uaWFsaWtXakZqVDZDbGdXZmF2LTQyMlZfdUNIVVAyNGJ1YVZWVXZNRTlCcFppMEpMMERJekRuSTVXMHdwc0k2dk1DRkFMNUhlRGVjc1NCWXpfV1BRMEVGUTdvWFMyY2c?oc=5",
-      "source": "UNESCO",
-      "published": "2026-11-06T16:55:37+00:00"
+      "title": "Exploring How Autistic Individuals Interact With Artificial Intelligence - SBU News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSzE3YWtULTBGOE1fZ21ZM0Z5aWdiWTV4VERGYzhSVmZyWDZwWDFMMUxGRTAyS3JoQjF0eURWVGdTX2pheWxHTnpyZ0liZlNBMGdoUGFyaVBqQ2hQamlKWWE4U2Nqb1NTRm9SZXlWOE43T1BIdUc0MTRHR24ybGpaNXpNZFQ1Z01ucEJtMjk4RmtWUUVucHlZS21Wd21YYmk3d3JNYzlpY3FGaW11bGJYSWJnQUtZamgtTUtOdG5rWQ?oc=5",
+      "source": "SBU News",
+      "published": "2026-11-11T20:37:35+00:00"
+    },
+    {
+      "title": "Accelerating generative AI delivery with reusable assets - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbWtNdXFyV1R6aDVhN1MzSzFISWY5THlpRFdWWlFBckVNQkYwWWRWTVI4R191TXhMRXVnOU9lOV9YcXoxRFFYUzFNd0hmODdUMlRZUEVtcTRjSG1fLThnZFdldDlZeER0UVFubkNWZFQ2cU8teXVKYmFpd25wNUJwSkUzbTd0ZnpKWGYteHhWU3RDOFdib3VkbHV4S29FaWJsS3dnRE1R?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "published": "2026-11-11T19:19:21+00:00"
+    },
+    {
+      "title": "Saint Vincent College approves new artificial intelligence minor - Saint Vincent College",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUpkdkFuc1o5UW9GSkpodmJsdXpPTWxncU9VdElHbEJ4SjZ0a3dXb1ZfUkhnaWVfSUd0Y192Q0xvSGVYOHRINDZ4S1FSb0ZNUWFyNFJNaHl3NzJOcHJ0YV9JYzZtTDROakMwb1h5VEZqUVNPa0R1LURTRTlPNGZXOThBMkxyTFZ4MmkxRFF3Zl9UcWZJSjlraXdiazAyU21QNUgyNzB1UjdNYVlp?oc=5",
+      "source": "Saint Vincent College",
+      "published": "2026-11-11T17:24:05+00:00"
     },
     {
       "title": "What May Artificial Intelligence Do for Writers? (updated) - Daily Nous",
@@ -102,16 +69,70 @@
       "published": "2026-11-11T14:21:54+00:00"
     },
     {
+      "title": "Financing Artificial Intelligence: Cash, Debt, and Corporate Investment - Federal Reserve Bank of St. Louis",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTFVFWFNiUmVHOHM0M0ZjOGtKQkR6YkdLUUFfYWw1ay05SEd6TmR1RzJmaVJqd25sekVpZWsxeGFMVjI1Z3A1anItajFtTFJtQlZGUXB4M2xaU2paV25aczY4bzROYUp6YXRCUUNWOVloRFVXYjl4QXh0c212Ui0xWldXckp3bjlwZHViUTlobXlEaEhub2s3QlFLQVhIaWN6TVg0QjlScDlfQ1dGanFFdDB2Rk1wanZrM2FBcw?oc=5",
+      "source": "Federal Reserve Bank of St. Louis",
+      "published": "2026-11-10T19:40:25+00:00"
+    },
+    {
+      "title": "Faculty member addresses artificial intelligence practically and theoretically - The Pennsylvania State University",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlNYMDJkYUZDVzhDbFRGa2tNZ25WbXdVNXdJU05QZEtmTS1GMlZlSFY1Mk1NdVFKSzF4eDFhU1dZZVEtMXZ3TlVNZnZ3Z2MtNnFnbGJMRGxhc2Nhdm83amJmR2JlZl9vc3UzRVBQd0RydV80elNjM1ZfSWdsZnk1eVE0aGhBcmN1YkhFRW5rWVRqWU50S1JEM3ZQd0U1el94eUpIVXBQb1RkUGg5TTBMTTZhRQ?oc=5",
+      "source": "The Pennsylvania State University",
+      "published": "2026-11-10T17:46:03+00:00"
+    },
+    {
       "title": "AMA: Artificial intelligence can augment physicians but don’t call it doctor - American Medical Association | AMA",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMTJBWEM3b2VHTU85Z1NKeXp2cEJvLWJ1MlVoQ1c1YWtXQ0FMU3FNTUFMSHlMTW5xZUNlaTcycmN6RzdGUUkzVW5qVXl5YTlfM3d6NmVTMmJwTzFvUVNMOGhtMVR0MlV3cnppM3BqWi13aXlfdVpMb0lvbmFMYm5pWTRoajhfR1l0ZkNpYVpxejRDaGg5Z3FvRVpESlRTSFZILS13dEtTWVFpQUVDeVBqUHRXQUNDVkU2QnZ5TkpB?oc=5",
       "source": "American Medical Association | AMA",
       "published": "2026-11-10T17:37:43+00:00"
     },
     {
-      "title": "Accelerating generative AI delivery with reusable assets - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbWtNdXFyV1R6aDVhN1MzSzFISWY5THlpRFdWWlFBckVNQkYwWWRWTVI4R191TXhMRXVnOU9lOV9YcXoxRFFYUzFNd0hmODdUMlRZUEVtcTRjSG1fLThnZFdldDlZeER0UVFubkNWZFQ2cU8teXVKYmFpd25wNUJwSkUzbTd0ZnpKWGYteHhWU3RDOFdib3VkbHV4S29FaWJsS3dnRE1R?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "published": "2026-11-11T19:19:21+00:00"
+      "title": "Artificial intelligence is desperately seeking its narrative - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWk0NGkyaTZjT29pR0VlM25mNGtrQmZqSnFxUS16cGgyU3dFcXNpQ0I5OGtrVzY4UmpsMHprcjJIQ0E5U1YwTTJtS3ZLTzNPMHhPMFd2TklGSHFMOUhsc2kwZkN6V21hY3ItVC1YM1hVSDd3UDhheXF1QjR6bUJUbVBEbjdCa0E1bnIyc3VuNXhiX3o5enBGYTlaSQ?oc=5",
+      "source": "The Conversation",
+      "published": "2026-11-10T13:12:58+00:00"
+    },
+    {
+      "title": "Best AI Stocks to Buy in 2026: 10 Top Picks & How to Invest - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTN4SWRQbVZpY1lwSnJjN3YxWmY5LU5Qck5ia2psWWRwcWplZ0RGTFo3ZmJrZDZ1S1RQZFF2NUcwOTh0NXA3NlM0a25ieHhPWHprdTBmbWxzY2FtdHRIMlpSY1pzcTU5ZkhfN0wtcF9UeDg4WnZVYTZPSkRtcDNZaUJ1djdPQ1RVRkVQeVFUTnJrMFJ5VXdj?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-11-10T04:51:00+00:00"
+    },
+    {
+      "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnBiX0Z2cUluNEtMVUJhSG83U09OQUo0ZzVxSUQtTXpxa2FMOWNvN1JZNVdMT1FUbW9tenFYOGNIWmxuLWZpOFc1bkFSN1d6Nk9kaklCczUwYjZXNkktT3NkX2hDOTRzT1prb0pmWWlObm9nbGJVa0NmWlZ4dU5NRS1XNXNHMkFLbDFreGxmd05EY3BZczR5NS1aYkdtSTAyQXl2eA?oc=5",
+      "source": "The Guardian",
+      "published": "2026-11-10T02:31:00+00:00"
+    },
+    {
+      "title": "Three Essays on Artificial Intelligence and Work in the U.S. - RAND",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9La0QtbGlJZ1RxN2txTS1KQ1VqRU82STJuMlI0S1lIVDVqamEyQ3IyQlh4VW1yQnhDOWgxaGx2QjJaMnBwOEVxbUFYMUQ5X1JJVDB0Z29HVFctckp5MG5qQnQzeHQ5YXpXOGVWeA?oc=5",
+      "source": "RAND",
+      "published": "2026-11-09T13:58:52+00:00"
+    },
+    {
+      "title": "The use of artificial intelligence in regulatory activities – key areas and considerations - IFPMA",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa2VEX0g3LXREM0JndWd1YnJ4dEk4WTNNMWRwUEtHd3pldnBuLUFTazg3c0hTN1gzOWVJbkNrLUVUYURuX2l0Q1N6Q2VlX3hraFVTX0g4R1BOYjZKOVllRk92aG5XUHU0MkVndUpvZGhXUFJKU3BLc3NnaTBTRjhacEpkZUYxak5ic1NrTE5OZnZZWXVlZTJCcHg0RWkyU1Q1dE9uRW42cmNmbmVzaWtOSVR4SFhsdWR6WmFJczJHSFctUQ?oc=5",
+      "source": "IFPMA",
+      "published": "2026-11-09T12:54:13+00:00"
+    },
+    {
+      "title": "Latin America Makes Progress in Data Governance for Ethical and Inclusive Artificial Intelligence - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUzFEa1hFWlJCR044b1N5RTA4R1pHQ0FyYi1JWVBYd3V1dGtNdnpwQ0hMNkVKQk1CekJMV3pyckxnTVE1Z3RuT2dMR25XeWc2UE9jaGUxdlBiRGJEMDY0eUpnek9uaWFsaWtXakZqVDZDbGdXZmF2LTQyMlZfdUNIVVAyNGJ1YVZWVXZNRTlCcFppMEpMMERJekRuSTVXMHdwc0k2dk1DRkFMNUhlRGVjc1NCWXpfV1BRMEVGUTdvWFMyY2c?oc=5",
+      "source": "UNESCO",
+      "published": "2026-11-06T16:55:37+00:00"
+    },
+    {
+      "title": "Frequently asked questions: Artificial Intelligence (AI) in the military domain - ICRC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON3hZV0w1YzZQLWlhZzZvWXNVeUJUbmtQeDFwUnhHRHFOY182a3ZxRnNIZkpBX0JCWHZnVE8zUUxqNHU1d1hvU1NPZjFxUW9mTjdtcWpPdGZxZ0tSNzN4eEtuX0x4dmp1Rk8wMFJzaWJoVGdsWnFDZ0VOSHFDR2RCY0d6THE?oc=5",
+      "source": "ICRC",
+      "published": "2026-11-06T08:00:00+00:00"
+    },
+    {
+      "title": "Artificial Intelligence in Earth Science Data Systems - NASA Earthdata (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fM3hZSzRWbWFxeXdEYmpRT0Z3RVI3Q19ScWtvbTFBdmtJOEFrSmJGVjM4Ui1CM1hGdXJwWlVaRlNjSGNfRUNkR3RNNjh5QXlCRGNRWGhPQWpKdXd3?oc=5",
+      "source": "NASA Earthdata (.gov)",
+      "published": "2026-11-06T08:00:00+00:00"
     }
   ]
 }
