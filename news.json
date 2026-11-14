@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T17:56:37.982108+00:00",
+  "updated_at": "2026-11-14T16:40:12.706423+00:00",
   "feed": "Google News RSS",
   "queries": [
     "artificial intelligence"
@@ -18,6 +18,12 @@
       "published": "2026-11-10T13:12:58+00:00"
     },
     {
+      "title": "Three Essays on Artificial Intelligence and Work in the U.S. - RAND",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9La0QtbGlJZ1RxN2txTS1KQ1VqRU82STJuMlI0S1lIVDVqamEyQ3IyQlh4VW1yQnhDOWgxaGx2QjJaMnBwOEVxbUFYMUQ5X1JJVDB0Z29HVFctckp5MG5qQnQzeHQ5YXpXOGVWeA?oc=5",
+      "source": "RAND",
+      "published": "2026-11-09T13:58:52+00:00"
+    },
+    {
       "title": "How Public Health Agencies Can Use Artificial Intelligence Effectively and Responsibly - The Pew Charitable Trusts",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ3hXd1F3VnVfUTB4cl8yZ1VoMy1VWDVBU1gzUUh2M3JxNnJRQzI2ZmF2YUc2Yk1qa1ZpYWxicnRQZU02OEFYRUxjN0g5MXhEVXFUYWY2QV9wTFNVbnhXVUpEQ0o2OV9fX1VIcFo5RUdVbUdOeDFsSXotTWFoYUFtX3hySXQ0b1FsYjlYSEtxWUdoVVdTcXVHWDk0UXlWWGQ2dkswWlp2b1BDTDdlLTZQelAwLWx2SUZRVXZhUmo1YWtIY3dyMVM1SWpVU3pKa2xZNlk3bk03YjlkMU40bkp4VFVvVEJGUQ?oc=5",
       "source": "The Pew Charitable Trusts",
@@ -30,22 +36,10 @@
       "published": "2026-11-12T17:58:52+00:00"
     },
     {
-      "title": "Financing Artificial Intelligence: Cash, Debt, and Corporate Investment - Federal Reserve Bank of St. Louis",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTFVFWFNiUmVHOHM0M0ZjOGtKQkR6YkdLUUFfYWw1ay05SEd6TmR1RzJmaVJqd25sekVpZWsxeGFMVjI1Z3A1anItajFtTFJtQlZGUXB4M2xaU2paV25aczY4bzROYUp6YXRCUUNWOVloRFVXYjl4QXh0c212Ui0xWldXckp3bjlwZHViUTlobXlEaEhub2s3QlFLQVhIaWN6TVg0QjlScDlfQ1dGanFFdDB2Rk1wanZrM2FBcw?oc=5",
-      "source": "Federal Reserve Bank of St. Louis",
-      "published": "2026-11-10T19:40:25+00:00"
-    },
-    {
       "title": "Jews are having the wrong conversation about artificial intelligence - eJewishPhilanthropy",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTDNyM0RKUDlOaHMzUlNTZzVRUkZfN195Q1d0NjkwVVA0WXRzaUNQcTU4eERrNDVEVGhVdlpZcVRaQXFZYXYzQVFQeFhhY1FUallhdHphb2EyNlh3bTFYaDQwNEktZjc5UHJfVjV0eDJlbTBXM3lHLVpFYU5oeGdiREJWTnlqRlRCaFZaR2YzZ0dTRVlVdWtnUXBpVnc5N1R3TWpR?oc=5",
       "source": "eJewishPhilanthropy",
       "published": "2026-11-13T10:45:00+00:00"
-    },
-    {
-      "title": "Exploring How Autistic Individuals Interact With Artificial Intelligence - SBU News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSzE3YWtULTBGOE1fZ21ZM0Z5aWdiWTV4VERGYzhSVmZyWDZwWDFMMUxGRTAyS3JoQjF0eURWVGdTX2pheWxHTnpyZ0liZlNBMGdoUGFyaVBqQ2hQamlKWWE4U2Nqb1NTRm9SZXlWOE43T1BIdUc0MTRHR24ybGpaNXpNZFQ1Z01ucEJtMjk4RmtWUUVucHlZS21Wd21YYmk3d3JNYzlpY3FGaW11bGJYSWJnQUtZamgtTUtOdG5rWQ?oc=5",
-      "source": "SBU News",
-      "published": "2026-11-11T20:37:35+00:00"
     },
     {
       "title": "Faculty member addresses artificial intelligence practically and theoretically - The Pennsylvania State University",
@@ -66,16 +60,22 @@
       "published": "2026-11-10T04:51:00+00:00"
     },
     {
+      "title": "AMA: Artificial intelligence can augment physicians but don’t call it doctor - American Medical Association | AMA",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMTJBWEM3b2VHTU85Z1NKeXp2cEJvLWJ1MlVoQ1c1YWtXQ0FMU3FNTUFMSHlMTW5xZUNlaTcycmN6RzdGUUkzVW5qVXl5YTlfM3d6NmVTMmJwTzFvUVNMOGhtMVR0MlV3cnppM3BqWi13aXlfdVpMb0lvbmFMYm5pWTRoajhfR1l0ZkNpYVpxejRDaGg5Z3FvRVpESlRTSFZILS13dEtTWVFpQUVDeVBqUHRXQUNDVkU2QnZ5TkpB?oc=5",
+      "source": "American Medical Association | AMA",
+      "published": "2026-11-10T15:48:00+00:00"
+    },
+    {
+      "title": "Miso Robotics Brings Hands-On Robotics, Artificial Intelligence and Analytics Learning to Cal Poly Pomona - Cal Poly Pomona",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVWNVNTVGLUVzX3ZhOGJRNy1Nd0NmSUNDY01oSXRfcmVYV0VoZk9vRUhLSm9QTlljeGxHUWVybGpBUWdObnQyVVJkakJjdjFUWEIwTlJyWjJmdnVRcTRLMzc5NjczQnJFZzBfeklwVHBqOGR0NmRNN1otMHA2d0tNNUdrZXUxYkV2bGoya3gzanhLWlRTMlc4VExyQkZMdDZOdlJwUUZVMC13V2Fta1EtWF9ib1FZVDhhY0JIY2JzcG42aUZvRzlSUF9xVlAwN1NfcEFGcVFjRXJ5SVlfSHYyUFA2WjBteld2WEVMQUN3?oc=5",
+      "source": "Cal Poly Pomona",
+      "published": "2026-11-12T08:00:00+00:00"
+    },
+    {
       "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnBiX0Z2cUluNEtMVUJhSG83U09OQUo0ZzVxSUQtTXpxa2FMOWNvN1JZNVdMT1FUbW9tenFYOGNIWmxuLWZpOFc1bkFSN1d6Nk9kaklCczUwYjZXNkktT3NkX2hDOTRzT1prb0pmWWlObm9nbGJVa0NmWlZ4dU5NRS1XNXNHMkFLbDFreGxmd05EY3BZczR5NS1aYkdtSTAyQXl2eA?oc=5",
       "source": "The Guardian",
       "published": "2026-11-10T06:00:00+00:00"
-    },
-    {
-      "title": "AMA: Artificial intelligence can augment physicians but don’t call it doctor - American Medical Association | AMA",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMTJBWEM3b2VHTU85Z1NKeXp2cEJvLWJ1MlVoQ1c1YWtXQ0FMU3FNTUFMSHlMTW5xZUNlaTcycmN6RzdGUUkzVW5qVXl5YTlfM3d6NmVTMmJwTzFvUVNMOGhtMVR0MlV3cnppM3BqWi13aXlfdVpMb0lvbmFMYm5pWTRoajhfR1l0ZkNpYVpxejRDaGg5Z3FvRVpESlRTSFZILS13dEtTWVFpQUVDeVBqUHRXQUNDVkU2QnZ5TkpB?oc=5",
-      "source": "American Medical Association | AMA",
-      "published": "2026-11-10T17:37:43+00:00"
     },
     {
       "title": "The use of artificial intelligence in regulatory activities – key areas and considerations - IFPMA",
@@ -84,34 +84,34 @@
       "published": "2026-11-09T12:54:13+00:00"
     },
     {
-      "title": "What May Artificial Intelligence Do for Writers? (updated) - Daily Nous",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2tGcm9maEVBcHRJRDZfRG1qU1F4Q213ZHRnM3FoaDlfdTAzdWJTVFpHdFVNbDB5ZXNkb09uQnFRX1ItUnBlai1yS0tHa0EtRHpPSXl4SWVFeThMQnd5Tm9wbk9CSkE0Q3I5dXZlel9BZHJJcmJSdGFvZ3FtQ0ZyeUFDT05zTmd0?oc=5",
-      "source": "Daily Nous",
-      "published": "2026-11-11T14:21:54+00:00"
-    },
-    {
-      "title": "Artificial intelligence and law: uses and risks - Esade",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zQ0hYSzQ1V0VESUFhOXAtN3hsa1dDY2JETDVYcUxjbXdPZjBNWmNXT1dlbWFIXzhrYVRhamt0Q2NZeHlWM1NHX0N3VkY0OU11dEF3VDVJV2xEek80UWxqejd0NWZjRWZXakQwdQ?oc=5",
-      "source": "Esade",
-      "published": "2026-11-06T19:07:48+00:00"
-    },
-    {
       "title": "OpenAI Codex on Amazon Bedrock | Artificial Intelligence - Amazon Web Services (AWS)",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaTMtak5LN2ZUam9haGF5ekhPR1hvdFNyU2lybEN0YU0xdWtnNFBEZ2o4clJNT050OXZXWXJtRm9iOFZLVHI5SEc1aWdmb3NHM1Y4UE5MdUc5MlNPaGE2SEJ6cjhyeUlEaGFNeUxUeVRYTGQzeUZNdDB4YmZfNENOVDVsZw?oc=5",
       "source": "Amazon Web Services (AWS)",
       "published": "2026-11-11T23:35:47+00:00"
     },
     {
+      "title": "What May Artificial Intelligence Do for Writers? (updated) - Daily Nous",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2tGcm9maEVBcHRJRDZfRG1qU1F4Q213ZHRnM3FoaDlfdTAzdWJTVFpHdFVNbDB5ZXNkb09uQnFRX1ItUnBlai1yS0tHa0EtRHpPSXl4SWVFeThMQnd5Tm9wbk9CSkE0Q3I5dXZlel9BZHJJcmJSdGFvZ3FtQ0ZyeUFDT05zTmd0?oc=5",
+      "source": "Daily Nous",
+      "published": "2026-11-11T14:21:54+00:00"
+    },
+    {
+      "title": "From fossils to artificial intelligence: Adam Stewart’s winding path through science - Cornell David A. Duffield College of Engineering",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzJSZGpXVTJlNDBIdjZVaUEzMlFocC1EcUdVR2NDb0JMbVJ0VzRzUm5EOGt6ejFJa01XYi1FTFZRLTIydmdyRkFnNlJFclprRVNkSEllTG9JRFdydl84bWxSU1B4OTI2d2NybUZMbS1PeUYyZFBiN0pLUUFtSEhFZ0FkVU13RS1LMTBwc0dic3JNVFl2MThyMjh5QlpLUkhndHdjcERWN0N1YWpyWVdqZm1lOG85TUE?oc=5",
+      "source": "Cornell David A. Duffield College of Engineering",
+      "published": "2026-11-09T05:29:44+00:00"
+    },
+    {
       "title": "UA faculty clash over postponed artificial intelligence guidelines - Anchorage Daily News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWC1vVW5nX3ozdy1fbUZmVjd4cWpCNllLZDY5c1E5YXBTTS1FdG9FTzA5a3d1SnUzeWsyRzFzMlV6V1F6ZFhYUmtDMExpSUNUQ2gyNm1vaTVrb1R0SjB6SzJESTgtOEs4cHBxR3phSkU0bEFNTHZkRGpndTFtMmwzLXRuQTZLQWFYVV9rYjFYbTFwbnhsZ29LZVNyNDBlVF9RV0dpb1BFYzJXTDlXRTN5N2xhTk9XTEw2bUxmTA?oc=5",
       "source": "Anchorage Daily News",
-      "published": "2026-11-12T13:57:52+00:00"
+      "published": "2026-11-13T13:00:53+00:00"
     },
     {
-      "title": "Q&A: Leveraging artificial intelligence to propel engineering education - The Pennsylvania State University",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeC1rSXpha1YyNnVNWkp5eGluRVZ6alpsYWRYNEFDNGp2a2tDMmRLRDh1aG1aellwdkFYa2I3cVVEaTc0RndLZXVCU2dYd3ZhYmkzbFFkOVQ4d2Vpa2tHRnQwWnkzWm0walhTbEpKQURHRFdvNDdjRkEwVkFRVVVXX29Yd29QeVRmbDA5OGxYOWxfWEROLXh6OFVTZUZFWUtaTGVrMFhPRzR2UGJvdlE?oc=5",
-      "source": "The Pennsylvania State University",
-      "published": "2026-11-13T09:46:18+00:00"
+      "title": "EU leaders seek to tackle challenges at first ever AI summit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMy10dU5kazRqbk9PSWxUbGRiUm53LU9sLXBHVnBNUW0xbElWLVVoUG9udExuMGlYZ2xldnlOQUJpMzNpNjEzN0N2TllYaUJkQzFDZG5QSXRKZWQwZlF5cUVTWlI3NVZUWkpra0diZGNtT2F3WnRFZ3ZKd3VvQ250c2tOM2VHOFlFMlRYTm5jbGZ4R0ZWaDNQc1ljR2R4SVU4Umo0NQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-13T06:06:00+00:00"
     }
   ]
 }
