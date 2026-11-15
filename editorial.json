@@ -1,9 +1,23 @@
 {
-  "edition": "2026-11-14",
-  "edition_title": "Saturday · November 14, 2026",
+  "edition": "2026-11-15",
+  "edition_title": "Sunday · November 15, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-14T11:15:22Z",
+  "updated_at": "2026-11-15T11:00:00Z",
   "items": [
+    {
+      "id": "galts-20261115-markets",
+      "title": "A Green Week, a Weak Friday: What Small Builders Should Watch",
+      "category": "CAPITAL / MARKET CONDITIONS",
+      "date": "2026-11-13",
+      "edition_date": "2026-11-15",
+      "byline": "UI News Desk",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/12c1e8155fb85c3c7b09e058ed6d3c74",
+      "what_changed": "U.S. stocks fell Friday: the S&P 500 lost 0.4% and the Nasdaq 0.9%. All four major indexes still finished the week higher; technology shares weighed most heavily, while Treasury yields rose.",
+      "status": "Market-close reporting, not a forecast. A positive week does not settle questions about tech concentration or financing costs.",
+      "why_watch": "For independent builders, watch borrowing costs and how narrowly market gains are concentrated alongside the headline indexes.",
+      "body": "What changed: U.S. stocks fell Friday: the S&P 500 lost 0.4% and the Nasdaq 0.9%. All four major indexes still finished the week higher; technology shares weighed most heavily, while Treasury yields rose.\n\nStatus: Market-close reporting, not a forecast. A positive week does not settle questions about tech concentration or financing costs.\n\nWhy watch: For independent builders, watch borrowing costs and how narrowly market gains are concentrated alongside the headline indexes."
+    },
     {
       "id": "galts-20261114-evaluators",
       "title": "Who Gets to Evaluate Powerful AI?",
