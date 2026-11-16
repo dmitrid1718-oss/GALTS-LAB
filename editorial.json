@@ -1,9 +1,37 @@
 {
-  "edition": "2026-11-15",
-  "edition_title": "Sunday · November 15, 2026",
+  "edition": "2026-11-16",
+  "edition_title": "Monday · November 16, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-15T11:00:00Z",
+  "updated_at": "2026-11-16T11:05:22.972Z",
   "items": [
+    {
+      "id": "galts-lab-20261116-fed",
+      "title": "The Builder's Question: Who Pays When the AI Spending Cycle Turns?",
+      "category": "BUILDERS / CAPITAL",
+      "date": "2026-11-16",
+      "edition_date": "2026-11-16",
+      "byline": "UI News Desk",
+      "source": "Federal Reserve · Michael Barr",
+      "url": "https://www.federalreserve.gov/newsevents/speech/files/barr20261116a.pdf",
+      "what_changed": "Barr highlights AI financing complexity and the need for smaller firms to replace supplier funding with paying-customer revenue.",
+      "status": "Official risk discussion; no predicted date for a downturn.",
+      "why_watch": "Our workshop question: can a small tool survive on real demand and manageable recurring costs? Keep that test separate from market enthusiasm.",
+      "body": "What changed: Barr highlights AI financing complexity and the need for smaller firms to replace supplier funding with paying-customer revenue.\n\nStatus: Official risk discussion; no predicted date for a downturn.\n\nWhy watch: Our workshop question: can a small tool survive on real demand and manageable recurring costs? Keep that test separate from market enthusiasm."
+    },
+    {
+      "id": "galts-lab-20261116-cursor",
+      "title": "A Small Workshop Lesson From Cursor's Incident",
+      "category": "WORKSHOP / SECURITY",
+      "date": "2026-11-13",
+      "edition_date": "2026-11-16",
+      "byline": "UI News Desk",
+      "source": "Cursor",
+      "url": "https://cursor.com/blog/security-incident-update",
+      "what_changed": "Cursor's incident account describes secrets surviving in retained traces and reaching downstream systems.",
+      "status": "Provider disclosure, not an independent forensic report.",
+      "why_watch": "Our workshop response: review retained logs and credential scope; convenience should not silently expand access.",
+      "body": "What changed: Cursor's incident account describes secrets surviving in retained traces and reaching downstream systems.\n\nStatus: Provider disclosure, not an independent forensic report.\n\nWhy watch: Our workshop response: review retained logs and credential scope; convenience should not silently expand access."
+    },
     {
       "id": "galts-20261115-markets",
       "title": "A Green Week, a Weak Friday: What Small Builders Should Watch",
