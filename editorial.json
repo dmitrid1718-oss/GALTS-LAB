@@ -1,9 +1,23 @@
 {
-  "edition": "2026-11-16",
-  "edition_title": "Monday · November 16, 2026",
+  "edition": "2026-11-17",
+  "edition_title": "Tuesday · November 17, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-16T11:05:22.972Z",
+  "updated_at": "2026-11-17T10:54:22.486314+00:00",
   "items": [
+    {
+      "id": "galts-20261117-human-judgment",
+      "title": "Who Remains Responsible When Tools Grow More Capable?",
+      "category": "WORKSHOP / HUMAN JUDGMENT",
+      "date": "2026-11-16",
+      "edition_date": "2026-11-17",
+      "byline": "UI News Desk",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+      "what_changed": "Warsh paired AI productivity scenarios with an argument that human judgment and responsibility remain essential.",
+      "status": "A policy speech and scenario exercise, not proof of a particular technological outcome.",
+      "why_watch": "Workshop question: which decisions should remain yours even when a tool can produce the answer faster?",
+      "body": "What changed: Warsh paired AI productivity scenarios with an argument that human judgment and responsibility remain essential.\n\nStatus: A policy speech and scenario exercise, not proof of a particular technological outcome.\n\nWhy watch: Workshop question: which decisions should remain yours even when a tool can produce the answer faster?"
+    },
     {
       "id": "galts-lab-20261116-fed",
       "title": "The Builder's Question: Who Pays When the AI Spending Cycle Turns?",
