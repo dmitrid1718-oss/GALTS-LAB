@@ -2,8 +2,36 @@
   "edition": "2026-11-17",
   "edition_title": "Tuesday · November 17, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-17T10:54:22.486314+00:00",
+  "updated_at": "2026-11-17T23:46:00+00:00",
   "items": [
+    {
+      "id": "galts-20261117-evening-outside-eyes",
+      "title": "The Workshop Question: Who Gets to Inspect the Machine?",
+      "category": "WORKSHOP / INDEPENDENT SCRUTINY",
+      "date": "2026-11-17",
+      "edition_date": "2026-11-17",
+      "byline": "UI News Desk",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+      "what_changed": "OpenAI announced outside research groups will examine selected internal model and safety-evaluation evidence, beyond public product demonstrations.",
+      "status": "A proposed evaluation process with constraints on access and publication; useful results are not yet established.",
+      "why_watch": "Workshop question: what evidence would you demand before trusting a machine built by someone else?",
+      "body": "What changed: OpenAI announced outside research groups will examine selected internal model and safety-evaluation evidence, beyond public product demonstrations.\n\nStatus: A proposed evaluation process with constraints on access and publication; useful results are not yet established.\n\nWhy watch: Workshop question: what evidence would you demand before trusting a machine built by someone else?"
+    },
+    {
+      "id": "galts-20261117-evening-automation",
+      "title": "The Builder's Dilemma: When Tools Can Act Without Us",
+      "category": "INDEPENDENT BUILDERS / RESPONSIBILITY",
+      "date": "2026-11-17",
+      "edition_date": "2026-11-17",
+      "byline": "UI News Desk",
+      "source": "Google Threat Intelligence Group",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold",
+      "what_changed": "Google documented offensive AI-agent workflows able to proceed through vulnerability discovery and exploit stages with limited human direction.",
+      "status": "Threat-research findings; not evidence that autonomy is uniformly reliable or safe.",
+      "why_watch": "Workshop question: which safeguards and stop switches should be non-negotiable for autonomous tools?",
+      "body": "What changed: Google documented offensive AI-agent workflows able to proceed through vulnerability discovery and exploit stages with limited human direction.\n\nStatus: Threat-research findings; not evidence that autonomy is uniformly reliable or safe.\n\nWhy watch: Workshop question: which safeguards and stop switches should be non-negotiable for autonomous tools?"
+    },
     {
       "id": "galts-20261117-human-judgment",
       "title": "Who Remains Responsible When Tools Grow More Capable?",
