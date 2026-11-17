@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-11-16T20:37:02.266406+00:00",
+  "updated_at": "2026-11-17T19:15:30.370250+00:00",
   "feed": "Google News RSS",
   "queries": [
     "artificial intelligence"
   ],
   "items": [
     {
-      "title": "DOE Explains...Artificial Intelligence - Department of Energy (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41OVprOE5tN2lBVzZuck52RDRvRU9FU0JvNThpald0enFRaUNzSHBxY0QzVmVhWnJMMHNEUXAzUlNrRnFmOFBtNkpTUVhTQ1lkdFVFeXJpRUZodHAwWTZwMDQ1UzNfMThKTFZqSjZuWkxtOEl2?oc=5",
-      "source": "Department of Energy (.gov)",
-      "published": "2026-11-10T18:13:51+00:00"
-    },
-    {
-      "title": "Artificial intelligence is desperately seeking its narrative - The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWk0NGkyaTZjT29pR0VlM25mNGtrQmZqSnFxUS16cGgyU3dFcXNpQ0I5OGtrVzY4UmpsMHprcjJIQ0E5U1YwTTJtS3ZLTzNPMHhPMFd2TklGSHFMOUhsc2kwZkN6V21hY3ItVC1YM1hVSDd3UDhheXF1QjR6bUJUbVBEbjdCa0E1bnIyc3VuNXhiX3o5enBGYTlaSQ?oc=5",
-      "source": "The Conversation",
-      "published": "2026-11-10T13:12:58+00:00"
+      "title": "Jews are having the wrong conversation about artificial intelligence - eJewishPhilanthropy",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTDNyM0RKUDlOaHMzUlNTZzVRUkZfN195Q1d0NjkwVVA0WXRzaUNQcTU4eERrNDVEVGhVdlpZcVRaQXFZYXYzQVFQeFhhY1FUallhdHphb2EyNlh3bTFYaDQwNEktZjc5UHJfVjV0eDJlbTBXM3lHLVpFYU5oeGdiREJWTnlqRlRCaFZaR2YzZ0dTRVlVdWtnUXBpVnc5N1R3TWpR?oc=5",
+      "source": "eJewishPhilanthropy",
+      "published": "2026-11-13T10:45:00+00:00"
     },
     {
       "title": "How Public Health Agencies Can Use Artificial Intelligence Effectively and Responsibly - The Pew Charitable Trusts",
@@ -24,52 +18,16 @@
       "published": "2026-11-12T14:59:26+00:00"
     },
     {
-      "title": "Jews are having the wrong conversation about artificial intelligence - eJewishPhilanthropy",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTDNyM0RKUDlOaHMzUlNTZzVRUkZfN195Q1d0NjkwVVA0WXRzaUNQcTU4eERrNDVEVGhVdlpZcVRaQXFZYXYzQVFQeFhhY1FUallhdHphb2EyNlh3bTFYaDQwNEktZjc5UHJfVjV0eDJlbTBXM3lHLVpFYU5oeGdiREJWTnlqRlRCaFZaR2YzZ0dTRVlVdWtnUXBpVnc5N1R3TWpR?oc=5",
-      "source": "eJewishPhilanthropy",
-      "published": "2026-11-13T10:45:00+00:00"
-    },
-    {
-      "title": "Advocacy groups sue to stop development of artificial intelligence, citing dangers - Jurist.org",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaURoay1wenlTQTdzS1JKWjgtak5DZnZUR1R1eGt3X1FaMWRVNk9GXzd6MENMdnlqZlhjWE52aW1UN0RpclplYWJSd0tzaEZNMS00RTA3LVdTUFJIMnM1dklfdVZIYzFIVm5BMFVlVk10dzJaOUNpVVRfU0lXeUNCUFZxLTZ4bElkc3c0dGo3T001QnZSdkRzajRPbDlzeHdvdUJJS3hfTXU4UXZsZGlnRjRDY3o3d2xCOWFUNjB3MUprYV9U?oc=5",
-      "source": "Jurist.org",
-      "published": "2026-11-14T22:05:24+00:00"
-    },
-    {
-      "title": "Associate professor finds agricultural relevance in artificial intelligence — and a rare sense of place - Auburn University",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbHZURy1xaUJXM1BFcTJHX0FTeEpEUG9yOXpDemtUTmt3WGFmaElITXpIaVpFekZGRlY0b3k1clVaeE9KYURscGE0NS1TcGRtMmx4VjdKVlA0dmVGTUZxUm53UGJZeVpBUEp5Nm5zTGJzU0RGckVvV01GVlc3eWlqMWt5RmMwbTM4b29PbGdXRQ?oc=5",
-      "source": "Auburn University",
-      "published": "2026-11-12T17:58:52+00:00"
-    },
-    {
       "title": "How to Build an Artificial Intelligence Revolution for All - Time Magazine",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUDg4LXBrcXB5UEVHNFE0LTdYSXM0N21ia01nSWs0TnBxcmlvRUpWYjY5X0JTVE1zVEstWjJqR0pVbDhtaWdER0NzSDRDWjFyZzBzeG9xdGE0QmR1RjNUcWw2Yy15UEpnOVVybkc2Z21zYXZ2SktTZF9Ecm9KckNZZFVsZGtWMEJDQnI3QkFHYmRNRXhIajZDZWNDRQ?oc=5",
       "source": "Time Magazine",
       "published": "2026-11-16T13:30:06+00:00"
     },
     {
-      "title": "Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act - Inside Global Tech",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWkdkZV9VSXBwSFlaYTVqWDczM0pxc3lvQW1ySHQ3bzExZDBDWjk0X1JOOWFPRm8xMEYyRmNFYnNMZ2NER18xV1A3WUpkTUhFTW5uaVhMSTlXSlF5U0FrNXpoRTQ2bVpSTjdrM3IyeFNMR2ZvMWtqSUgzeFJDeGc1d2xnck5aZG5NZmYzWjFhSlRzazFabWM5WlpfX3dpZTZkOGNrcGFSaDBQRXY0dWFkekFFU0o?oc=5",
-      "source": "Inside Global Tech",
-      "published": "2026-11-09T21:25:07+00:00"
-    },
-    {
-      "title": "Faculty member addresses artificial intelligence practically and theoretically - The Pennsylvania State University",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlNYMDJkYUZDVzhDbFRGa2tNZ25WbXdVNXdJU05QZEtmTS1GMlZlSFY1Mk1NdVFKSzF4eDFhU1dZZVEtMXZ3TlVNZnZ3Z2MtNnFnbGJMRGxhc2Nhdm83amJmR2JlZl9vc3UzRVBQd0RydV80elNjM1ZfSWdsZnk1eVE0aGhBcmN1YkhFRW5rWVRqWU50S1JEM3ZQd0U1el94eUpIVXBQb1RkUGg5TTBMTTZhRQ?oc=5",
-      "source": "The Pennsylvania State University",
-      "published": "2026-11-10T17:46:03+00:00"
-    },
-    {
-      "title": "Clemson University to launch three new degree programs in artificial intelligence - Clemson News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS0g2TDRrOE9RYmJ0WXRENWxSYW5zd0l3LWxidnV3SHZzS0J0U2NEN3hwM3RLcV9fTWYyUTZ4ZzVpUGlld2tEU19JM1ZwOFVILVA4NEJKVmJYZXppdjRWenJNY3YtUU1ibkV4YlYtbG1NQ05LZDV5Q0tyd0tsYXB0ajlaazMwZE5Zc0FyS2Y0RTBJNzdiWmNfcUVHaGQzdjFQVnZVNzE5d2FrZVE?oc=5",
-      "source": "Clemson News",
-      "published": "2026-11-16T15:32:17+00:00"
-    },
-    {
-      "title": "Best AI Stocks to Buy in 2026: 10 Top Picks & How to Invest - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTN4SWRQbVZpY1lwSnJjN3YxWmY5LU5Qck5ia2psWWRwcWplZ0RGTFo3ZmJrZDZ1S1RQZFF2NUcwOTh0NXA3NlM0a25ieHhPWHprdTBmbWxzY2FtdHRIMlpSY1pzcTU5ZkhfN0wtcF9UeDg4WnZVYTZPSkRtcDNZaUJ1djdPQ1RVRkVQeVFUTnJrMFJ5VXdj?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-11-10T04:51:00+00:00"
+      "title": "Prior Authorization in Medicaid: Regulating Artificial Intelligence - National Health Law Program",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcF8yV05wM0dNRUlPQmptM0FfbFQyYTB4bjd5WU4yeFRmb3Jla2ZQYjZ1VUNQMVhEUmNVOE9RX215VjVZbjhsRTd0eEtzVkhhQlZOZXVqRE9SQkZhLXlvX1ROeHdRWTladk5WS2pCRVl2ekpYcFZwVDhTY1FkQTltZElPTjcwVkU0VTRqeEJJcWJzdnRReXpqZ0RzOUpXQU0?oc=5",
+      "source": "National Health Law Program",
+      "published": "2026-11-13T23:46:06+00:00"
     },
     {
       "title": "APA offers new guidance as artificial intelligence use at work expands - American Psychological Association (APA)",
@@ -78,10 +36,52 @@
       "published": "2026-11-16T08:05:57+00:00"
     },
     {
-      "title": "AMA: Artificial intelligence can augment physicians but don’t call it doctor - American Medical Association | AMA",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMTJBWEM3b2VHTU85Z1NKeXp2cEJvLWJ1MlVoQ1c1YWtXQ0FMU3FNTUFMSHlMTW5xZUNlaTcycmN6RzdGUUkzVW5qVXl5YTlfM3d6NmVTMmJwTzFvUVNMOGhtMVR0MlV3cnppM3BqWi13aXlfdVpMb0lvbmFMYm5pWTRoajhfR1l0ZkNpYVpxejRDaGg5Z3FvRVpESlRTSFZILS13dEtTWVFpQUVDeVBqUHRXQUNDVkU2QnZ5TkpB?oc=5",
-      "source": "American Medical Association | AMA",
-      "published": "2026-11-10T15:48:00+00:00"
+      "title": "Associate professor finds agricultural relevance in artificial intelligence — and a rare sense of place - Auburn University",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDFWOHg2bGZVdm1idWVYcF8zZTUzblFuRjNjdzJ3b3pyZnpoR1ZFUzNteE5wV1ROYl93cng1Ti04bTI0RXRGbXFpZmp4dzhzekhTVzZzd2QyOEhQY1VwakVqNUlkUWQwTUx3U2loaUdkREdBdmxPZmxyNEtERk04SXpSVF95anVHYkttVHhKT2E4NWlFemhVb0lsYmFaT2RTM3JZOWRHbUFleXFEUklCRERmalpReHdobW1YUEw3d0NzTjNXQXJqYzNVMUJWSXp2MllOcV9TbV8?oc=5",
+      "source": "Auburn University",
+      "published": "2026-11-12T17:58:52+00:00"
+    },
+    {
+      "title": "Clemson University to launch three new degree programs in artificial intelligence - Clemson News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS0g2TDRrOE9RYmJ0WXRENWxSYW5zd0l3LWxidnV3SHZzS0J0U2NEN3hwM3RLcV9fTWYyUTZ4ZzVpUGlld2tEU19JM1ZwOFVILVA4NEJKVmJYZXppdjRWenJNY3YtUU1ibkV4YlYtbG1NQ05LZDV5Q0tyd0tsYXB0ajlaazMwZE5Zc0FyS2Y0RTBJNzdiWmNfcUVHaGQzdjFQVnZVNzE5d2FrZVE?oc=5",
+      "source": "Clemson News",
+      "published": "2026-11-16T15:32:17+00:00"
+    },
+    {
+      "title": "Advocacy groups sue to stop development of artificial intelligence, citing dangers - Jurist.org",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaURoay1wenlTQTdzS1JKWjgtak5DZnZUR1R1eGt3X1FaMWRVNk9GXzd6MENMdnlqZlhjWE52aW1UN0RpclplYWJSd0tzaEZNMS00RTA3LVdTUFJIMnM1dklfdVZIYzFIVm5BMFVlVk10dzJaOUNpVVRfU0lXeUNCUFZxLTZ4bElkc3c0dGo3T001QnZSdkRzajRPbDlzeHdvdUJJS3hfTXU4UXZsZGlnRjRDY3o3d2xCOWFUNjB3MUprYV9U?oc=5",
+      "source": "Jurist.org",
+      "published": "2026-11-14T22:05:24+00:00"
+    },
+    {
+      "title": "Artificial intelligence and the economy - Brookings",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUFreU83TjV0OVNMNWV1aDhMZV9zMFJyczNvdzNQUlQ0NEFkdzdYQ29QSVpfeHl3REhzTUVleXNVWFFfZGdGUzYtUlU5MWY5SHlDMkpUdGZpS3hyYVdxaWVwaWQ3UDZRWGJXajU3RFMyREx5ejV2UnR0aXRYcU9qRg?oc=5",
+      "source": "Brookings",
+      "published": "2026-11-17T13:42:37+00:00"
+    },
+    {
+      "title": "Q&A: Leveraging artificial intelligence to propel engineering education - The Pennsylvania State University",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeC1rSXpha1YyNnVNWkp5eGluRVZ6alpsYWRYNEFDNGp2a2tDMmRLRDh1aG1aellwdkFYa2I3cVVEaTc0RndLZXVCU2dYd3ZhYmkzbFFkOVQ4d2Vpa2tHRnQwWnkzWm0walhTbEpKQURHRFdvNDdjRkEwVkFRVVVXX29Yd29QeVRmbDA5OGxYOWxfWEROLXh6OFVTZUZFWUtaTGVrMFhPRzR2UGJvdlE?oc=5",
+      "source": "The Pennsylvania State University",
+      "published": "2026-11-13T09:46:18+00:00"
+    },
+    {
+      "title": "The year ahead will be crunch time for artificial intelligence - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT2pVSmZ4VEVVMF9OMkhabXM3RzZqR3o0X2hQVWp4dXhpdlVxMHBFV25kRWpXNGoyUWhGRDNUZEo4QmxCUmRFb092cFNhd1Q5Vkx0WWY2Q0ZRUHNXVC00Yzd1UVJybVhhb3RidEtuczV3SU9ldlVERnFsdUtyNWhYM2tnRTRqclBsXzF5SkdoaWh1NVhfTUtFOTRYakVJdDcwVzE3UjY0OU5TOVZPRHJUdFdib0Y4dw?oc=5",
+      "source": "The Economist",
+      "published": "2026-11-17T00:06:50+00:00"
+    },
+    {
+      "title": "Exploring How Autistic Individuals Interact With Artificial Intelligence - SBU News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSzE3YWtULTBGOE1fZ21ZM0Z5aWdiWTV4VERGYzhSVmZyWDZwWDFMMUxGRTAyS3JoQjF0eURWVGdTX2pheWxHTnpyZ0liZlNBMGdoUGFyaVBqQ2hQamlKWWE4U2Nqb1NTRm9SZXlWOE43T1BIdUc0MTRHR24ybGpaNXpNZFQ1Z01ucEJtMjk4RmtWUUVucHlZS21Wd21YYmk3d3JNYzlpY3FGaW11bGJYSWJnQUtZamgtTUtOdG5rWQ?oc=5",
+      "source": "SBU News",
+      "published": "2026-11-11T20:37:35+00:00"
+    },
+    {
+      "title": "Accelerating generative AI delivery with reusable assets | Artificial Intelligence - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbWtNdXFyV1R6aDVhN1MzSzFISWY5THlpRFdWWlFBckVNQkYwWWRWTVI4R191TXhMRXVnOU9lOV9YcXoxRFFYUzFNd0hmODdUMlRZUEVtcTRjSG1fLThnZFdldDlZeER0UVFubkNWZFQ2cU8teXVKYmFpd25wNUJwSkUzbTd0ZnpKWGYteHhWU3RDOFdib3VkbHV4S29FaWJsS3dnRE1R?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "published": "2026-11-11T19:19:21+00:00"
     },
     {
       "title": "Miso Robotics Brings Hands-On Robotics, Artificial Intelligence and Analytics Learning to Cal Poly Pomona - Cal Poly Pomona",
@@ -90,16 +90,16 @@
       "published": "2026-11-12T08:00:00+00:00"
     },
     {
-      "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnBiX0Z2cUluNEtMVUJhSG83U09OQUo0ZzVxSUQtTXpxa2FMOWNvN1JZNVdMT1FUbW9tenFYOGNIWmxuLWZpOFc1bkFSN1d6Nk9kaklCczUwYjZXNkktT3NkX2hDOTRzT1prb0pmWWlObm9nbGJVa0NmWlZ4dU5NRS1XNXNHMkFLbDFreGxmd05EY3BZczR5NS1aYkdtSTAyQXl2eA?oc=5",
-      "source": "The Guardian",
-      "published": "2026-11-10T06:00:00+00:00"
+      "title": "Circular Finance May Set Up Systemic Risk in Artificial Intelligence - Legis1",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92b3BZRjFQYzUzeFBFb3RiRHRBVnZQNlc2amsweU9waGJkZUdYWVFRXzcxRUhBVWJucnRvVms5MWR1a3RvZ09xcDBxOTFfaTlNdkJNRk1ZMUpsSFZ4TFRQSjFhUEdmQWNoMXc0eU95d2Y0MlU?oc=5",
+      "source": "Legis1",
+      "published": "2026-11-17T17:23:22+00:00"
     },
     {
-      "title": "ICYMI: What landed for AI builders in October 2026 | Amazon Web Services - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdFFIM0o0NHRGTjR3M3FPMEZzWUNIMUhPLU82NTlNWWV2ekw1MGdjam9UTDNzTE1Jc2ZwUW93VzBnbVRPQTYyOVhtbFduNWhnc05COU56ZDROOEhVMkFZai1DcjVkaEczSnVlWVYxZFM0MU45d1phNnpnSE82M0dYUG5GcUtOR2dBdkFkRDBCYjFiWW52clB4aGRJMUo?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "published": "2026-11-11T22:26:40+00:00"
+      "title": "Learning the language of machine learning - MIT News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYTc0ZUxfWW1oZklSWHhsaTNlY3I0V1JtMzNrZ0VEX3luY1gxX3RWN3V4RnZ5M0RSQ01pTGxtS251VndPMEU1eV9ENVFabWQ5ZVVwVEZWYXJkc3FXWENUalVCc201OUdYelA3OV9kT0JlNlFza3ZmM2dKQXl3TzRjY1FsdC1VZnh6Q1E?oc=5",
+      "source": "MIT News",
+      "published": "2026-11-17T05:00:00+00:00"
     },
     {
       "title": "What May Artificial Intelligence Do for Writers? (updated) - Daily Nous",
@@ -108,10 +108,10 @@
       "published": "2026-11-11T14:21:54+00:00"
     },
     {
-      "title": "Before the Algorithm Decides: Connecticut’s 2027 Rules for Artificial Intelligence in Employment - Foley & Lardner LLP",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTjVyRkc0dk5JUW11Ri1aejg3Ukl1SXVEVktrbEdYYVFBR1pQc2NIOHViZTJCZ29land5TVRKU0cxclB6c2E0MmJIcVNudkNBUTRPVVdRN1Q3NzlmMkRkd2FQX25uTk9VX2hiTksyQzBlZ0JqQU0wdTNXRm12R2o4Rkw3bnpKQUExbHBFQ3BMaE1qSjdkeXA4RGI4U0E0bzl2N0tuQU85YVgtaG5lN2F2R2FuNWh3aE9xTjhza1JIUFM4M0tmcTlBTnQ3OVA3YTdBalYzQjlvTUxUbGtIUmxSVA?oc=5",
-      "source": "Foley & Lardner LLP",
-      "published": "2026-11-09T21:07:36+00:00"
+      "title": "Artificial intelligence (AI) for schoolwork - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZUt5SzRIUDJGQjNHNlVLM0dET1dKWWNoUENLbUFYcjQwQUlMVnVobm9reVBKZEx0Z2VaREFlbHgycTdhNllSaDB5Q0JRSzAzYjdXUzRCb1VyZl9EOXJfbi1iRG51RW8wS2hjWTEtZTZ3QzVjRHdjMVhjaUtkRjNMWExKdWN5QQ?oc=5",
+      "source": "Britannica",
+      "published": "2026-11-16T08:00:00+00:00"
     }
   ]
 }
