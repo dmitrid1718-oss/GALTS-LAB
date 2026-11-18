@@ -1,9 +1,23 @@
 {
-  "edition": "2026-11-17",
-  "edition_title": "Tuesday · November 17, 2026",
+  "edition": "2026-11-18",
+  "edition_title": "Wednesday · November 18, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-17T23:46:00+00:00",
+  "updated_at": "2026-11-18T11:22:57.423Z",
   "items": [
+    {
+      "id": "galts-20261118-control-of-tools",
+      "title": "The Builder's New Question: Who Owns the Intelligence You Depend On?",
+      "category": "WORKSHOP / INDEPENDENCE",
+      "date": "2026-11-18",
+      "edition_date": "2026-11-18",
+      "byline": "UI News Desk",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/",
+      "what_changed": "Reported U.S. consideration of Chinese-AI disclosure requirements shows how platform choice can become a supply-chain and governance decision for builders.",
+      "status": "Policy proposal under discussion; neither a prohibition nor a final rule. The workshop question is editorial interpretation.",
+      "why_watch": "If a tool became unavailable tomorrow, could your project still export its work and switch providers without losing its history?",
+      "body": "What changed: Reported U.S. consideration of Chinese-AI disclosure requirements shows how platform choice can become a supply-chain and governance decision for builders.\n\nStatus: Policy proposal under discussion; neither a prohibition nor a final rule. The workshop question is editorial interpretation.\n\nWhy watch: If a tool became unavailable tomorrow, could your project still export its work and switch providers without losing its history?"
+    },
     {
       "id": "galts-20261117-evening-outside-eyes",
       "title": "The Workshop Question: Who Gets to Inspect the Machine?",
