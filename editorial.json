@@ -1,9 +1,22 @@
 {
-  "edition": "2026-11-18",
-  "edition_title": "Wednesday · November 18, 2026",
+  "edition": "2026-11-20",
+  "edition_title": "Friday · November 20, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-18T11:22:57.423Z",
+  "updated_at": "2026-11-20T13:30:00Z",
   "items": [
+    {
+      "date": "2026-11-20",
+      "edition_date": "2026-11-20",
+      "byline": "UI News Desk",
+      "id": "galts-20261120-job-finding",
+      "title": "A Builder's Question: When Intelligence Is Cheap, Who Gets the Work?",
+      "category": "WORKSHOP / LABOR & AUTONOMY",
+      "source": "Federal Reserve Bank of Cleveland",
+      "url": "https://www.clevelandfed.org/publications/economic-commentary/ec-202626-job-finding-and-unemployment-in-the-age-of-ai",
+      "what_changed": "Cleveland Fed researchers find that AI-exposed workers' relatively higher unemployment is primarily associated with slower re-employment rather than faster job separation.",
+      "status": "Empirical economic research, not evidence of an economy-wide employment collapse. Attribution to AI remains subject to research limitations.",
+      "why_watch": "For independent builders, test which concrete skills create durable value when tools become widely accessible. Workshop question: what would you build if nobody gave you permission?"
+    },
     {
       "id": "galts-20261118-control-of-tools",
       "title": "The Builder's New Question: Who Owns the Intelligence You Depend On?",
