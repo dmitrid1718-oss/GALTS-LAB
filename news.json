@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-11-19T19:05:02.012575+00:00",
+  "updated_at": "2026-11-20T18:42:06.080603+00:00",
   "feed": "Google News RSS",
   "queries": [
     "artificial intelligence"
   ],
   "items": [
     {
-      "title": "National Lab Discovery Series: PermitAI™: Using Artificial Intelligence to Accelerate Environmental Reviews and Permitting - Department of Energy (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2czV1NLUmdGcEhNcTlhOGJHMzRGRVhFaVBfT2EtNU8tWE4yVzVrQ2ozMHRUSnhvSmVnT1F1aTdSYVJTLU1xeWVDc3Q5cWEtelE5QVN1YmhWeFNZUm04eEs3N3gzSzNGdFBNZWJGbUJDUTlNdXBRRDRlbV9PQU9zSHJ1U2FqcVVJZUtkU1ZUNXo5WDhBZ21WUG90dDczeDhaUmluS0hObWZoLWdKLThwWGlBdG5xZw?oc=5",
-      "source": "Department of Energy (.gov)",
-      "published": "2026-11-13T17:08:36+00:00"
+      "title": "Artificial Intelligence: Covert Testing Used Common Platforms to Create Viable Attack Plans - U.S. Government Accountability Office (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kS2ctYWF5U25FR2dadGRYbVB0UlRuYVA0Q3FFWm1OUFgtenBZaHI1SnZZNTZzRUpPei1zTlhfaUUxdTA4TTVHeWE1czBySnJHM0VYbA?oc=5",
+      "source": "U.S. Government Accountability Office (.gov)",
+      "published": "2026-11-18T13:03:42+00:00"
+    },
+    {
+      "title": "APA offers new guidance as artificial intelligence use at work expands - American Psychological Association (APA)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeU9FSWVZeWdiVnZKT3BFRm05czdhUEJlRkYwTUFhMFdFQ1phSUhTZVNyYlhkVi02M0ZaY2lfeUh1VEkyTjF1NVl0bkRjdEhBLWI2V2xVakd3N0NJdXJkUEpvbFNsNVN1aWNSSUtib0lJMEFvNzQxT2JBajZFWDNxZVFyT192S295bG14d3N3?oc=5",
+      "source": "American Psychological Association (APA)",
+      "published": "2026-11-16T08:05:57+00:00"
     },
     {
       "title": "Artificial intelligence and the economy - Brookings",
@@ -24,22 +30,16 @@
       "published": "2026-11-16T23:26:49+00:00"
     },
     {
-      "title": "APA offers new guidance as artificial intelligence use at work expands - American Psychological Association (APA)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeU9FSWVZeWdiVnZKT3BFRm05czdhUEJlRkYwTUFhMFdFQ1phSUhTZVNyYlhkVi02M0ZaY2lfeUh1VEkyTjF1NVl0bkRjdEhBLWI2V2xVakd3N0NJdXJkUEpvbFNsNVN1aWNSSUtib0lJMEFvNzQxT2JBajZFWDNxZVFyT192S295bG14d3N3?oc=5",
-      "source": "American Psychological Association (APA)",
-      "published": "2026-11-16T08:05:57+00:00"
-    },
-    {
-      "title": "Jews are having the wrong conversation about artificial intelligence - eJewishPhilanthropy",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTDNyM0RKUDlOaHMzUlNTZzVRUkZfN195Q1d0NjkwVVA0WXRzaUNQcTU4eERrNDVEVGhVdlpZcVRaQXFZYXYzQVFQeFhhY1FUallhdHphb2EyNlh3bTFYaDQwNEktZjc5UHJfVjV0eDJlbTBXM3lHLVpFYU5oeGdiREJWTnlqRlRCaFZaR2YzZ0dTRVlVdWtnUXBpVnc5N1R3TWpR?oc=5",
-      "source": "eJewishPhilanthropy",
-      "published": "2026-11-13T10:45:00+00:00"
-    },
-    {
       "title": "Artificial intelligence for antibiotic discovery and design - Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2NnlidTR2VG5veXJqSnhDTVA2ZUN1SUdZR2RRc3U5NkphUkVTb0pMTTZhX1lCc3pMWklJVWhscGZYWmpJYUdadFRnNDJNZU01aTRTbFNRWERaem1HUzlB?oc=5",
       "source": "Nature",
       "published": "2026-11-17T22:11:47+00:00"
+    },
+    {
+      "title": "Opinion | Artificial intelligence flourished in California election advertising — and divided voters - CalMatters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM2ZIVFhQbmxWX215UDE3NkV4MTFjWDVfZnB0UU5tQnJBdzA1Y2hvRHRhZTNhejFiYmRNbnRSc2dNS2ZDYThBU0g3NHlham5vVHlBTTdKVXU4UmNha2xoSnNEeGtDejNoMXJHSjhocHdTR0V6R0NhU0lQTHJ0SnN5R3Rjd3lJZEdVd1lPYlI0M1pZMXhzZ0ZKbTAtS082c00?oc=5",
+      "source": "CalMatters",
+      "published": "2026-11-20T13:00:00+00:00"
     },
     {
       "title": "Clemson University to launch three new degree programs in artificial intelligence - Clemson News",
@@ -54,10 +54,10 @@
       "published": "2026-11-16T13:30:06+00:00"
     },
     {
-      "title": "Artificial Intelligence and Labor Market Reallocation - Federal Reserve Bank of San Francisco",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcW92UWdHZTlOSmt6S2ItdUpBdDVBWTdvN0J5YTJGZ0wzWWdHQXJkaWdVRGYwMDdPVTFyWjJEbG9qLWtvTlN2dTBRTUQydHBqa2lzUGlFdV9CVmRyaThmRTR3OVlpdVpwTDN5YzlHaUNqLTJvTW1rc1VxWjhvZF9EeUFxWVprYm5JUF9YVXdxWnI1LU9YalM1c3ctb1ZZelB3TENlN3FGWVZwb1ljbFp5a0liT0kzeXZuVE9sYU03VVBCWU9XZzJqV1dDTHEwem8?oc=5",
-      "source": "Federal Reserve Bank of San Francisco",
-      "published": "2026-11-18T00:30:00+00:00"
+      "title": "A.I. Has Changed How We Talk. Here Are the Words You Need to Know. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjZHZUZJSFQ2V2t1ZFFIVEJ3ZXl5Z09YTjFnR21ZVzRkLUhzVFNpSUxnanMwVm5maEtwODBkLXhtVE9kX0pvQTlUVXBWXy1uUlM4TUJKenFQR0Z6Tm9wNk9haXU5MVlaU1ptN2ZsTEdZZk1jRGdOUlpDN1gyZnhiTWZnenUxdlNZT1dUdmF4Vll2cmstTDV6VzkzZw?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-18T21:24:08+00:00"
     },
     {
       "title": "Prior Authorization in Medicaid: Regulating Artificial Intelligence - National Health Law Program",
@@ -66,10 +66,22 @@
       "published": "2026-11-13T23:46:06+00:00"
     },
     {
+      "title": "Governor Hochul Breaks Ground on Permanent Empire AI Supercomputing Center, Marking Major Milestone in New York’s National Leadership in Using Artificial Intelligence for the Public Good - Governor Kathy Hochul (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWVdqNHRVcGw2amM1QVZ4SkxNZzNtdTBmb0JZdkNMYXZTRlZia0tJdDVTWHVoNnJBUWFlcUtjQXQ4NGZYMEZKNEkyUi02eWcwN214QTdtOWdRVkxUS0lobmY3SklZUUthR05TWnJUcGZXampFbjU0b0NqTGVxazJsS0phSjB1d0R0QjdDd0ppQW5hck82WTNCdEt1LVZxc0ZacFhONnE1V1pvRS1TM3JZRkY2dDZMV2RTNkE?oc=5",
+      "source": "Governor Kathy Hochul (.gov)",
+      "published": "2026-11-19T21:34:26+00:00"
+    },
+    {
       "title": "Artificial intelligence: loss scenarios and claims developments - Allianz Commercial",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFkyRGRTMThfdHUzZTFzRVBSenFIM0ZaMFlhbkxvV3ViNkYwcHlaN0xHRm5TYzQyMFhpX0VNczVzblkzNnVxX3B1eFRDR1ZZUUY0ZzJVaFN6R1lGYVcwRmhYbVhfN29BOFFvZGVrVjdIaS1oV0tIbnhNSWNfaWdUMUR3VmtDMFBlUEJDX0ln?oc=5",
       "source": "Allianz Commercial",
       "published": "2026-11-18T22:57:48+00:00"
+    },
+    {
+      "title": "In Print: ‘Korean Studies in the Artificial Intelligence Era’ - Purdue University",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQanM4dlRRVDNuRU1iU2dYR3Y1czlmSFl1UkE1ZmhlX3QtTEJlTWwxSFI5VEFLMGtIWTVrTFhLQU0wcndCOGlKYWo3eXpuQXdaa2FYZGdOSEl4aDV2T0FRaG9Ja1dYSFRDOWltdnlkR0JEVEpVRDEtSk9aOHdxVHpRMlBVM01XV3A2MGJrQVpTVnFRc0M3QjNDRHVYTG1zMlVvTXBhdU1idTFkdTZqNmMw?oc=5",
+      "source": "Purdue University",
+      "published": "2026-11-19T16:30:00+00:00"
     },
     {
       "title": "Artificial Intelligence and Human Rights: Protecting Human Dignity in the Age of AI - UNESCO",
@@ -84,34 +96,22 @@
       "published": "2026-11-17T00:06:50+00:00"
     },
     {
-      "title": "In Print: ‘Korean Studies in the Artificial Intelligence Era’ - Purdue University",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQanM4dlRRVDNuRU1iU2dYR3Y1czlmSFl1UkE1ZmhlX3QtTEJlTWwxSFI5VEFLMGtIWTVrTFhLQU0wcndCOGlKYWo3eXpuQXdaa2FYZGdOSEl4aDV2T0FRaG9Ja1dYSFRDOWltdnlkR0JEVEpVRDEtSk9aOHdxVHpRMlBVM01XV3A2MGJrQVpTVnFRc0M3QjNDRHVYTG1zMlVvTXBhdU1idTFkdTZqNmMw?oc=5",
-      "source": "Purdue University",
-      "published": "2026-11-19T16:30:00+00:00"
-    },
-    {
       "title": "What role can artificial intelligence play in education? - Central Michigan University",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ3dUek5kVUMwMFV0R3g1R2FLSmdZV3RFaVduSGVsY1NuSDZYSi1DOGJEaE1XZmtsZlpaTTJ2bDlhQUhXV0JkV0RqY2I4M1VpY2VPbGpNNEJkWm9fazFscVgyT0VNUHlYVzB6cDhQR0FnVl8zQUE0SHpBLVhPeXlLeXl5VGVvc2k0VnVaTHlvSDI5N0NjWm9z?oc=5",
       "source": "Central Michigan University",
       "published": "2026-11-16T08:00:00+00:00"
     },
     {
-      "title": "A New Classroom Use for Artificial Intelligence: Grade the Chat, Not Just the Answer - EdSurge",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSEpGbmpjR1RPeWFoQ2ZYOWlwVEY4eVdSOGtxZllJd2NLMlRIZGIyWnN0clV0NDRDVVBZNEZfMzI5U0Fncm5jS2NKdy1LZkwwcEE4TzlJRVJtOTdxUEpWQWNnRWFsMkE5S21GWjV1bk5iX2lNTkYxX0p3bzBkcGw2OTl5cUNCZWREUkt4c3dYS2t2eHlOMUJkbThsR2p5T1JSRGtDQ3ZMNEczc1RQczYzWQ?oc=5",
-      "source": "EdSurge",
-      "published": "2026-11-18T14:21:03+00:00"
-    },
-    {
-      "title": "AI is changing the world. College of Computing and Artificial Intelligence wants to help decide how - The Daily Cardinal",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdHlrcTlxcmNUdGJsNVdHMHFidTlXeDFPenB1eDJmQm5NX1ZndE5XZEhwVEQ4NUdMNUpvY3ppa1laSzRKVGVRWmhDRmdMZTRVZXBMZmFQY3BlZndSRkZoNFp0R3RmYlhLRU5iRG9WLWxSTmJwbEUycGREV3NGVnc0Q093STdZOEdkVHF5ZzEwUGp6NXRDdWZBVXEzeHpVektqUFEtc1dtejBTTG9ONm40Vm1SOTVjV1lKUnpxQURXalp1SFE3QTFKWFFoSmN4QklQM1JhY2Vka3M1RTRW?oc=5",
-      "source": "The Daily Cardinal",
-      "published": "2026-11-19T09:06:37+00:00"
-    },
-    {
       "title": "Data Availability for Artificial Intelligence and Engineering Biology - CSET | Center for Security and Emerging Technology",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmc2Qy1QeXNrWDk3YmliY2ZpMTA5aGNjaEhVcmlDQ2E0eEVxX0ZpREhKeEY3MWpKNVhTVHBzNXpFUjFRdWlwWllJUHNwb3hjdTRPeVhLYzhLN2lOSzJoUkZmZ1VuVlNjNW5rQXNoQ25PNjZGVjB6TXBfb2F3VlRqOC0zdG05N3V4UEZKYVc1T0NTUjBkVkpRSHI4clZEd3AxZ1pyLWxYTnFCbkhEWUh3?oc=5",
       "source": "CSET | Center for Security and Emerging Technology",
       "published": "2026-11-19T05:13:25+00:00"
+    },
+    {
+      "title": "Journal editor discusses artificial intelligence in academic publishing - Yale Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDg1RjdrSUF2UjNJdjFRRTh6WUtINHUzTVNtdHkxX08wSDEydndlSUNJSVVhMHlEenVIb091NzhsZWk2ZmF1czNFN1VtLVdaTlBPT1J3NHVjNmRreC1JQ3VLOHVhUzM5RzFrbEtHTzVEa2hZZlU0dTdvQlB4QXRfWWotd21KdWxUNU1nNUdmbjFOTGtaUXNmZDJEdkJhQ3F4MF9HLW01REp3QQ?oc=5",
+      "source": "Yale Daily News",
+      "published": "2026-11-20T09:02:15+00:00"
     }
   ]
 }
