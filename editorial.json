@@ -1,9 +1,33 @@
 {
-  "edition": "2026-11-20",
-  "edition_title": "November 20, 2026 · Afternoon follow-up",
+  "edition": "2026-11-21",
+  "edition_title": "November 21, 2026 · Verified morning follow-up",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-20T21:17:00Z",
+  "updated_at": "2026-11-21",
   "items": [
+    {
+      "date": "2026-11-21",
+      "edition_date": "2026-11-21",
+      "byline": "UI News Desk",
+      "id": "galts-20261121-agent-permission",
+      "title": "The Door: Whose Judgment Controls an Autonomous Agent?",
+      "category": "THE DAILY QUESTION / AUTONOMY",
+      "url": "https://developers.googleblog.com/en/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/",
+      "source": "Google Developers · November 20, 2026 · original Galts Lab question",
+      "what_changed": "Google introduced preview semantic-governance policies that can review proposed agent tool calls against rules before execution.",
+      "status": "The preview announcement is confirmed; real-world effectiveness against sophisticated manipulation has not been independently established. This question is editorial commentary, not an Ayn Rand quotation.",
+      "why_watch": "If a personal AI can act for you but another institution defines the rules for its actions, where should control, responsibility and the right to override reside? How would a builder make that boundary auditable?",
+      "sources": [
+        {
+          "label": "Original announcement",
+          "url": "https://developers.googleblog.com/en/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/"
+        },
+        {
+          "label": "Technical policy overview",
+          "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/govern/policies/semantic-governance-overview"
+        }
+      ],
+      "body": "What changed: Google introduced preview semantic-governance policies that can review proposed agent tool calls against rules before execution.\n\nStatus: The preview announcement is confirmed; real-world effectiveness against sophisticated manipulation has not been independently established. This question is editorial commentary, not an Ayn Rand quotation.\n\nWhy watch: If a personal AI can act for you but another institution defines the rules for its actions, where should control, responsibility and the right to override reside? How would a builder make that boundary auditable?"
+    },
     {
       "date": "2026-11-20",
       "edition_date": "2026-11-20",
